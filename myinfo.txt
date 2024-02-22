@@ -1,3 +1,7 @@
  baha abid -glc4
+<<<<<<< HEAD
 je suis un eleve ingenieur en electronique
+=======
+je suis un eleve ingenieur en telecom
+>>>>>>> work
 c'est mon 1er tp devops 
